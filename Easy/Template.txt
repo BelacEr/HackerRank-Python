@@ -1,4 +1,0 @@
-# Problem: [Problem Name]
-# Difficulty: [Easy/Medium/Hard]
-# Points: [X]
-# URL: [Problem Link]
